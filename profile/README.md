@@ -1,12 +1,17 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  <img style="vertical-align:middle" height="200"
+  src="https://github.com/explodinggradients/.github/assets/5261489/7c2b13fa-ea21-44e0-8040-f6abf3333eaf">
+</p>
+<p align="center">
+    <a href="https://explodinggradients.com/">
+      📖 Blog
+    </a>
+  |
+    <a href="javascript:void(0)">
+      🔜 Course
+    </a>
+  |
+    <a href="mailto:consulting@gmail.com">
+      ✉️ Contact
+    </a>
+</p>
