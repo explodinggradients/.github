@@ -25,6 +25,6 @@ Some of the projects we are proud off
 - [Funtuner](https://github.com/explodinggradients/nemesis) - Supervised instruction finetuning for LLM with HF trainer and Deepspeed
 - [Nemesis](https://github.com/explodinggradients/nemesis) - Reward Model framework for LLM RLHF
 
-We also take up consulting projects with companies who share our passion for solving hard problems to bring immense value to users. We are proud to have worked previously with a butch of amazing clients like [wequity](https://www.wequity.app/) and [mantisX](https://mantisx.com/). If you would like to work with us please feel free to shoot us a mail at consulting@explodinggradients.com. 
+We also take up consulting projects with companies who share our passion for solving hard problems to bring immense value to users. We are proud to have worked previously with a bunch of amazing clients like [wequity](https://www.wequity.app/) and [mantisX](https://mantisx.com/). If you would like to work with us please feel free to shoot us a mail at [consulting@explodinggradients.com](mailto:consulting@explodinggradients.com). 
 
-We are always on the lookout to help visionaries building the future with LLMs ❤️
+We are always on the lookout to help visionaries build the future with LLMs ❤️
