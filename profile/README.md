@@ -17,9 +17,9 @@ Welcome to Exploding Gradients
 
 <br>
 
-We are a group of passionate individuals who are leveraging cutting-edge research and pragmatic engineering practices to empower the visionaries who are redefining the possibilities of LLMs, with the right tools. 
+We are a group of passionate individuals leveraging cutting-edge research and pragmatic engineering practices to empower the visionaries redefining the possibilities of LLMs by providing them with the right tools. 
 
-Some of the projects we are proud off
+The following are some of the projects we are proud of:
 
 - [Ragas](https://github.com/explodinggradients/ragas) - SOTA metrics for evaluating Retrieval Augmented Generation (RAG) pipelines
 - [Funtuner](https://github.com/explodinggradients/Funtuner) - Supervised instruction finetuning for LLM with HF trainer and Deepspeed
