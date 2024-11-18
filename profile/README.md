@@ -21,7 +21,7 @@ We are a group of passionate individuals leveraging cutting-edge research and pr
 
 The following are some of the projects we are proud of:
 
-- [Ragas](https://github.com/explodinggradients/ragas) - SOTA metrics for evaluating Retrieval Augmented Generation (RAG) pipelines
+- [Ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations.
 - [Funtuner](https://github.com/explodinggradients/Funtuner) - Supervised instruction finetuning for LLM with HF trainer and Deepspeed
 - [Nemesis](https://github.com/explodinggradients/nemesis) - Reward Model framework for LLM RLHF
 
